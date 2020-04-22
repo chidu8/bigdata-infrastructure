@@ -1,4 +1,4 @@
-This contains code for cool algorithms relevant to big data infrastructure that I have implemented so far in my free time. 
+This contains code for a cool algorithm called Hyperloglog that is useful for big data infrastructure
 
-1. Hyperloglog
-2. WIP
+
+
